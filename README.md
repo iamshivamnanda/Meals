@@ -17,7 +17,7 @@ https://www.mediafire.com/file/z3rz0mjkurndlsi/meals.apk/file
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/iamshivamnanda/paisa.git
+https://github.com/iamshivamnanda/meals.git
 ```
 
 **Step 2:**
